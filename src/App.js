@@ -11,9 +11,12 @@ class App  extends React.Component {
 
       <div className="app">
         <Header />
-        <ContentBlock />
-        <ContentBlock />
-        <ContentBlock />
+        <ContentBlock bgImg={"crew-2/splashdown/Crew-1_Crew_Desktop.webp"}/>
+        <ContentBlock bgImg={"crew-2/docking/Homepage_Dragon_Docking_Desktop.webp"}/>
+        <ContentBlock bgImg={"backgrounds-2021/sn15/post-launch/HP_SN15_Desktop.webp"}/>
+        <ContentBlock bgImg={"backgrounds-2021/sl26/Homepage_SL26_7371_Desktop.webp"}/>
+        <ContentBlock bgImg={"backgrounds-2021/hls-resized-2.webp"}/>
+        <ContentBlock bgImg={"backgrounds/iss_game.webp"}/>
         <Router>
           <Route exact path="/vehicles">
             <Redirect to="/" />
