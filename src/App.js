@@ -1,8 +1,8 @@
 import React from 'react'
 import Header from './components/Header'
-import {Link, BrowserRouter as Router, HashRouter} from 'react-router-dom'
+import { BrowserRouter as Router} from 'react-router-dom'
 import {Route, Redirect} from 'react-router-dom'
-import HomePage from './components/HomePage'
+import ContentBlock from "./components/ContentBlock";
 
 
 class App  extends React.Component {
@@ -10,21 +10,17 @@ class App  extends React.Component {
     return(
 
       <div className="app">
-        <div className="header"><Header style={{backgroundImage: 'url(https://www.spacex.com/static/images/backgrounds-2021/HP_SN11_Vertical_20210311_IMG_01221.webp)'}}/></div>
-        <div className="homepage"></div>
-        
-
-
-
-
-
+        <Header />
+        <ContentBlock />
+        <ContentBlock />
+        <ContentBlock />
         <Router>
           <Route exact path="/vehicles">
             <Redirect to="/" />
           </Route>
         </Router>
         <Router>
-          
+
         </Router>
       </div>
 
