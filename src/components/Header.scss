@@ -1,30 +1,36 @@
 
 .header{
     position: fixed;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .spacex__logo {
-
     fill: white;
-    height: 42px;
-    width: 269px;
-    margin-top: 24px;
-    margin-left: 45px;
+    height: 26px;
+    width: 210px;
 }
 
 .Routes {
-    margin-left: 270px;
-    margin-top: -25px;
+    margin-left: 244px;
+    margin-top: -20px;
 }
 
 li {
     display: inline;
-    padding: 13px;
-    white-space: nowrap;
+    padding: 14px;
     font-size: 14px;
 }
 
 li a{
     color: white;
     text-decoration: none;
+}
+
+.logo a{
+    display: inline-block;
+    height: 26px;
+    width: 210px;
+    margin-top: 32px;
+    margin-left: 50px;
 }

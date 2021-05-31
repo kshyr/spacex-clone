@@ -1,0 +1,9 @@
+.fade-in-hello {
+    animation: fade ease-in;
+}
+
+@keyframes fade {
+   0%{
+       opacity: 0;
+   }
+}
