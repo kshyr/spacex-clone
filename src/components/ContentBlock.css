@@ -1,0 +1,27 @@
+.cont{
+  height: 100vh;
+  max-width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.text{
+  font-family: "D-DIN";
+  position: absolute;
+  margin: 500px 50px;
+  color: white;
+  font-size: 30px;
+}
+.eventType{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.eventTitle{
+  font-family: "D-DIN-Bold";
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.eventDescription{
+  margin-top: 0;
+  margin-bottom: 0;
+}

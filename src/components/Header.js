@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import './Header.scss'
+import './Header.css'
 import {Link, BrowserRouter as Router } from 'react-router-dom'
 
 class Header extends Component {
