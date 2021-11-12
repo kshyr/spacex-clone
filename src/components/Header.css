@@ -1,5 +1,4 @@
-
-.header{
+.header {
     position: fixed;
     margin-left: auto;
     margin-right: auto;
@@ -22,12 +21,12 @@ li {
     font-size: 14px;
 }
 
-li a{
+li a {
     color: white;
     text-decoration: none;
 }
 
-.logo a{
+.logo a {
     display: inline-block;
     height: 26px;
     width: 210px;

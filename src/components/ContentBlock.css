@@ -1,11 +1,12 @@
-.cont{
+.container{
   height: 100vh;
   max-width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  word-break: break-all;
 }
-.text{
+.contents{
   font-family: "D-DIN";
   position: absolute;
   margin: 500px 50px;
