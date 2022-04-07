@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spacex-clone/static/css/main.c8d47d13.chunk.css",
+    "main.js": "/spacex-clone/static/js/main.7bea741f.chunk.js",
+    "main.js.map": "/spacex-clone/static/js/main.7bea741f.chunk.js.map",
+    "runtime-main.js": "/spacex-clone/static/js/runtime-main.ace5a973.js",
+    "runtime-main.js.map": "/spacex-clone/static/js/runtime-main.ace5a973.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/spacex-clone/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.628a325a.chunk.js": "/spacex-clone/static/js/2.628a325a.chunk.js",
+    "static/js/2.628a325a.chunk.js.map": "/spacex-clone/static/js/2.628a325a.chunk.js.map",
+    "static/js/3.f5adca93.chunk.js": "/spacex-clone/static/js/3.f5adca93.chunk.js",
+    "static/js/3.f5adca93.chunk.js.map": "/spacex-clone/static/js/3.f5adca93.chunk.js.map",
+    "index.html": "/spacex-clone/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/spacex-clone/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.c8d47d13.chunk.css.map": "/spacex-clone/static/css/main.c8d47d13.chunk.css.map",
+    "static/js/2.628a325a.chunk.js.LICENSE.txt": "/spacex-clone/static/js/2.628a325a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/spacex-clone/static/media/D-DINCondensed.7c189af2.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ace5a973.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.628a325a.chunk.js",
+    "static/css/main.c8d47d13.chunk.css",
+    "static/js/main.7bea741f.chunk.js"
+  ]
+}
