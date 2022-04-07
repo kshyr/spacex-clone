@@ -1,0 +1,20 @@
+.footer {
+    background-color: black;
+    overflow:hidden;
+}
+
+.links {
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
+}
+.links li {
+    display: inline;
+    font-size: 12px;
+    margin: 20px;
+}
+
+.links li a {
+    color: white;
+    text-decoration: none;
+}
