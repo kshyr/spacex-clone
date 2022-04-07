@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spacex-clone/static/css/main.c8d47d13.chunk.css",
-    "main.js": "/spacex-clone/static/js/main.7e4b39bb.chunk.js",
-    "main.js.map": "/spacex-clone/static/js/main.7e4b39bb.chunk.js.map",
+    "main.js": "/spacex-clone/static/js/main.aceed213.chunk.js",
+    "main.js.map": "/spacex-clone/static/js/main.aceed213.chunk.js.map",
     "runtime-main.js": "/spacex-clone/static/js/runtime-main.ace5a973.js",
     "runtime-main.js.map": "/spacex-clone/static/js/runtime-main.ace5a973.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/spacex-clone/static/css/2.7fc9bc2b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.c035b098.chunk.js",
     "static/css/main.c8d47d13.chunk.css",
-    "static/js/main.7e4b39bb.chunk.js"
+    "static/js/main.aceed213.chunk.js"
   ]
 }
