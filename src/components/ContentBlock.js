@@ -15,10 +15,13 @@ const ContentBlock = (props) => {
         <h5 className="eventType">{props.type}</h5>
         <h1 className="eventTitle">{props.title}</h1>
         <h6 className="eventDescription">{props.description}</h6>
+        {props.learnMoreBtn ? (
+        <a href="#" className="learnMore">LEARN MORE</a>
+        ) : null}
       </div>
     </div>
   );
-}
+};
 
 
 export default ContentBlock;
