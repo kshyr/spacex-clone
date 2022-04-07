@@ -1,9 +1,15 @@
-.fade-in-hello {
-    animation: fade ease-in;
+.app {
+    animation: fade ease-in-out 1s;
 }
 
 @keyframes fade {
-    0% {
-        opacity: 0;
+    20% {
+        filter: brightness(0%);
+    }
+    80% {
+        filter: brightness(60%);
+    }
+    100% {
+        filter: brightness(100%);
     }
 }
